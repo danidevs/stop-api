@@ -1,0 +1,6 @@
+@StopApi_HostAddress = http://localhost:5271
+
+GET {{StopApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
